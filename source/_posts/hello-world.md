@@ -2,7 +2,6 @@
 title: Hello World
 tags: 
     - HELLO WORLD
-    - 1
 comment: false
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
@@ -442,5 +441,5 @@ John-->Alice: Great!
 [^footnote2]: 这是另一个 *注脚* 的 **文本**。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYxNTg1NzddfQ==
+eyJoaXN0b3J5IjpbLTEzNTQwOTI3ODNdfQ==
 -->

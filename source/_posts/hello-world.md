@@ -1,8 +1,6 @@
 ---
 title: Hello World
 tags: 
-    - HEXO
-    - BLOG
     - HELLO WORLD
 comment: false
 ---
@@ -442,3 +440,6 @@ John-->Alice: Great!
 
 [^footnote2]: 这是另一个 *注脚* 的 **文本**。
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNTQwOTI3ODNdfQ==
+-->
